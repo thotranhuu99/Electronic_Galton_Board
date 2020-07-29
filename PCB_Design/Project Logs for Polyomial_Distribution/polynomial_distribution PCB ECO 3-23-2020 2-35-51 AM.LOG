@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=D25 Old Footprint=D5AN New Footprint=D0.5A
+Added Member To Class: ClassName=polynomial_distribution Member=Component 1 JP5
+Added Member To Class: ClassName=polynomial_distribution Member=Component D25 Diode
+Added Member To Class: ClassName=polynomial_distribution Member=Component IC STM32F103C8T6
+Added Member To Class: ClassName=polynomial_distribution Member=Component JDC Jac DC
+Added Member To Class: ClassName=polynomial_distribution Member=Component  LM2596 Module
